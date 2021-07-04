@@ -4,7 +4,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 ## Languages and Tools I currently use
 
-![logo](readme-images/html5.png=55x55)
+![logo](readme-images/html5.png =55x55)
 ![logo](readme-images/css3.png=55x55)
 ![logo](readme-images/javascript.png=55x55)
 ![logo](readme-images/java.png=55x55)
