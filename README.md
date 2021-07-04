@@ -6,18 +6,18 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 ## Languages and Tools I currently use
 
-<img src="readme-images/html5.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/css3.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/javascript.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/java.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/sql.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/github.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/visual_code.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/html5.png" width="55"/>
+<img src="readme-images/css3.png" width="55"/>
+<img src="readme-images/javascript.png" width="55"/>
+<img src="readme-images/java.png" width="55"/>
+<img src="readme-images/sql.png" width="55"/>
+<img src="readme-images/github.png" width="55"/>
+<img src="readme-images/visual_code.png" width="55"/>
 
 ## Languages and Tools I've ever used
 
-<img src="readme-images/python.png" style="width: 55px; padding: 2px 8px;"/>
-<img src="readme-images/django.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/python.png" width="55"/>
+<img src="readme-images/django.png" width="55"/>
 
 # My Projects Django
 
