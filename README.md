@@ -1,16 +1,33 @@
-### Hi there 👋
+### Hi, I'm Raul 👋
 
-<!--
-**rauldosS/rauldosS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Full-Stack Programmer that loves apply his knowledge to solve problems, create amazing products and impact lives.
 
-Here are some ideas to get you started:
+## Languages and Tools I currently use
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![logo](readme-images/html5.png)
+![logo](readme-images/css3.png)
+![logo](readme-images/javascript.png)
+![logo](readme-images/java.png)
+![logo](readme-images/sql.png)
+![logo](readme-images/github.png)
+![logo](readme-images/visual_code.png)
+
+## Languages and Tools I've ever used
+
+![logo](readme-images/python.png)
+![logo](readme-images/django.png)
+
+# My Projects Django
+
+<div align="center">
+  <kbd>
+    <a href="https://www.aeroclubevideira.com.br/">
+        <img src="readme-images/globe.png" width='50px'/>
+    </a>
+  </kbd>
+</div>
+
+- 🔭 I’m currently working on System Assistant
+- 🌱 I’m currently learning Python and Java
+- 📫 How to reach me: [WhatsApp](https://api.whatsapp.com/send?phone=5549991781296&text=Enviar%20mensagem%20para%20Raul)
+- ⚡ Fun fact: Musician (Transverse Flute, Sax, Guitar and Piano)
