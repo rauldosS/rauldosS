@@ -6,18 +6,18 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 ## Languages and Tools I currently use
 
-<img src="readme-images/html5.png"/>
-<img src="readme-images/css3.png"/>
-<img src="readme-images/javascript.png"/>
-<img src="readme-images/java.png"/>
-<img src="readme-images/database.png"/>
-<img src="readme-images/github.png"/>
-<img src="readme-images/vscode.png"/>
+![logo](readme-images/html5.png)
+![logo](readme-images/css3.png)
+![logo](readme-images/javascript.png)
+![logo](readme-images/java.png)
+![logo](readme-images/database.png)
+![logo](readme-images/github.png)
+![logo](readme-images/vscode.png)
 
 ## Languages and Tools I've ever used
 
-<img src="readme-images/python.png"/>
-<img src="readme-images/django.png"/>
+![logo](readme-images/python.png)
+![logo](readme-images/django.png)
 
 # My Projects Django
 
