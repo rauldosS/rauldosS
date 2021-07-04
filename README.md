@@ -1,22 +1,23 @@
-### Hi, I'm Raul 👋
+<img src="readme-images/programer.png" align="right"/>
+
+# Hi, I'm Raul 👋
 
 A Full-Stack Programmer that loves apply his knowledge to solve problems, create amazing products and impact lives.
 
 ## Languages and Tools I currently use
 
-<img src="https://github.com/rauldosS/rauldosS/blob/main/readme-images/programer.png" style="width: 55px; padding: 2px 8px;"/>
-![logo](readme-images/html5.png =55x55)
-![logo](readme-images/css3.png=55x55)
-![logo](readme-images/javascript.png=55x55)
-![logo](readme-images/java.png=55x55)
-![logo](readme-images/sql.png=55x55)
-![logo](readme-images/github.png=55x55)
-![logo](readme-images/visual_code.png=55x55)
+<img src="readme-images/html5.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/css3.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/javascript.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/java.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/sql.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/github.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/visual_code.png" style="width: 55px; padding: 2px 8px;"/>
 
 ## Languages and Tools I've ever used
 
-![logo](readme-images/python.png=55x55)
-![logo](readme-images/django.png=55x55)
+<img src="readme-images/python.png" style="width: 55px; padding: 2px 8px;"/>
+<img src="readme-images/django.png" style="width: 55px; padding: 2px 8px;"/>
 
 # My Projects Django
 
