@@ -4,6 +4,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 ## Languages and Tools I currently use
 
+<img src="/rauldosS/rauldosS/blob/main/readme-images/programer.png" style="width: 55px; padding: 2px 8px;"/>
 ![logo](readme-images/html5.png =55x55)
 ![logo](readme-images/css3.png=55x55)
 ![logo](readme-images/javascript.png=55x55)
