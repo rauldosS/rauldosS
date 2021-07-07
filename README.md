@@ -13,9 +13,6 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 ![logo](readme-images/database.png)
 ![logo](readme-images/github.png)
 ![logo](readme-images/vscode.png)
-
-## Languages and Tools I've ever used
-
 ![logo](readme-images/python.png)
 ![logo](readme-images/django.png)
 
