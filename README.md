@@ -16,7 +16,6 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 ![logo](readme-images/eclipse.png)
 ![logo](readme-images/github.png)
 ![logo](readme-images/vscode.png)
-
 # My Projects Django
 
 <div align="center">
