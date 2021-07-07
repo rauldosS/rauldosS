@@ -9,15 +9,13 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 ![logo](readme-images/html5.png)
 ![logo](readme-images/css3.png)
 ![logo](readme-images/javascript.png)
-![logo](readme-images/java.png)
-![logo](readme-images/database.png)
-![logo](readme-images/github.png)
-![logo](readme-images/vscode.png)
-
-## Languages and Tools I've ever used
-
 ![logo](readme-images/python.png)
 ![logo](readme-images/django.png)
+![logo](readme-images/database.png)
+![logo](readme-images/java.png)
+![logo](readme-images/eclipse.png)
+![logo](readme-images/github.png)
+![logo](readme-images/vscode.png)
 
 # My Projects Django
 
