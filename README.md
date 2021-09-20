@@ -50,7 +50,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
   <!-- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
 </p>
 
-## My Projects Django
+## My personal projects :books:
 
 <div align="center">
   <kbd>
@@ -61,7 +61,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
   </kbd>
 </div>
 
-## Total de Visitas no perfil :detective: <br>
+## Total Profile Views :detective: <br>
 <p align="center"> 
     <img alingn="center" src="https://profile-counter.glitch.me/rauldosS/count.svg" />
 </p>
