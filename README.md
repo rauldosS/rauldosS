@@ -54,7 +54,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 <div align="center">
   <kbd>
-    <a href="https://www.aeroclubevideira.com.br/">
+    <a href="https://www.aeroclubevideira.com.br/" target="_blank">
         <img src="readme-images/globe.png" width='50px' style='background-color: transparent;'/>
         Aeroclube Videira
     </a>
