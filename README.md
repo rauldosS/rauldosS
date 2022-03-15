@@ -68,7 +68,7 @@ A Full-Stack Programmer that loves apply his knowledge to solve problems, create
 
 </p>
 
-- 🔭 I am currently working as a Junior Analyst Developer at [Linx](https://www.linx.com.br/) and Independent Full Stack Developer
+- 🔭 I am urrently I work as a Python Programmer at [BRMED](https://www.grupobrmed.com.br/) and Independent Full Stack Developer
 - 🌱 I work and I'm learning C# and Python
 - 📫 How to reach me: [WhatsApp](https://api.whatsapp.com/send?phone=5549991781296&text=Enviar%20mensagem%20para%20Raul)
 - ⚡ Fun fact: Musician (Transverse Flute, Sax, Guitar and Piano)
